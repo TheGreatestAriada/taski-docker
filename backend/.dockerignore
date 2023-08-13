@@ -1,4 +1,3 @@
-# Файл .dockerignore
 venv
 .env
 .git
